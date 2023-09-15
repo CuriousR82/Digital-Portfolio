@@ -1,4 +1,4 @@
-# [Digital-Portfolio](https://curiousr.ca/rosa-jeon-portfolio.pdf)
+# [Digital-Portfolio](https://curiousr.ca/pdfs/rosa-jeon-portfolio.pdf)
 
 ![img1](./slides/1.jpg)
 ![img2](./slides/2.jpg)
